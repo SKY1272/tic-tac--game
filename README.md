@@ -1,4 +1,4 @@
-# tic-tac--gam
+# tic-tac--game
 Thsi si a simple game of tic tac toe that I created my Html/css/javascript. Most of the games I have seen online require two players, and I wanted to try creating a game where one player plays against the computer.
 Play the game here
 It works well enough at the moment, but I will like to eventually improve the game in a few ways:
